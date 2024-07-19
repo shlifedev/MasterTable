@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BFRzMfReVt4U9VgQyfazq7SpRDrZ6Ao6111TSLwUUj9q/G2nAt1D9YnO/eifXAXhCMJxKfAlkcWwcyPbk7B0nQ==",
+  "success": true,
+  "projectFilePath": "/Users/shlifedev/MasterTable/MasterTable.Shared/MasterTable.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/shlifedev/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/shlifedev/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

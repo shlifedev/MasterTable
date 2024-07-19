@@ -1,0 +1,1 @@
+{"SchemaName":"Unit","Tables":[{"TableName":"Data","Types":["int","float","double","list\u003Cint\u003E"],"Fields":["Key","Damage","Percentage","Datas"]},{"TableName":"Level","Types":["int","int","float","list\u003Cint\u003E"],"Fields":["Key","Level","Miyao","ListList"]}]}

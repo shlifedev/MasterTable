@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>MasterTable</RootNamespace>
+        <LangVersion>12</LangVersion>
+        <DebugType>none</DebugType>
+        <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks> <!-- This line disables .pdb file generation -->
+    </PropertyGroup>
+
+    <ItemGroup> 
+          
+        <ProjectReference Include="..\MasterTable.Shared\MasterTable.Shared.csproj" /> 
+  
+    </ItemGroup>
+
+    
+    <ItemGroup>     
+      <PackageReference Include="ExcelDataReader" Version="3.7.0"/>
+      <PackageReference Include="ExcelDataReader.DataSet" Version="3.7.0" />
+      <PackageReference Include="MemoryPack" Version="1.21.1" /> 
+      <PackageReference Include="System.Text.Json" Version="9.0.0-preview.6.24327.7" /> 
+      <PackageReference Include="UniTask" Version="2.5.5" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Folder Include="Excels\Generated\" />
+    </ItemGroup>
+</Project>

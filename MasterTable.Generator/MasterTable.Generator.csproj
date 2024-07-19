@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup> 
+        <OutputType>library</OutputType>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <!-- 以下は好み -->
+        <LangVersion>10</LangVersion>
+        <Deterministic>true</Deterministic>
+        <Nullable>enable</Nullable>
+        <RootNamespace>MasterTable.Generator</RootNamespace>
+        <EnforceExtendedAnalyzerRules>false</EnforceExtendedAnalyzerRules> 
+        <IsRoslynComponent>true</IsRoslynComponent> 
+        
+    </PropertyGroup>
+
+
+
+
+    <!-- 필요 족송석 -->
+    <ItemGroup>
+        <PackageReference Include="System.Text.Json" Version="8.0.4"  />
+    </ItemGroup>
+    
+    <!--내 프로젝트 -->
+    
+    <ItemGroup>
+        <ProjectReference Include="..\MasterTable.Shared\MasterTable.Shared.csproj" PrivateAssets="all">
+        </ProjectReference>
+        <None Include="$(OutputPath)\*.dll" Pack="true" PackagePath="analyzers/dotnet/cs" Visible="false" />
+    </ItemGroup>
+
+    <PropertyGroup>
+        <GetTargetPathDependsOn>$(GetTargetPathDependsOn);GetDependencyTargetPaths</GetTargetPathDependsOn>
+    </PropertyGroup>
+
+    <Target Name="GetDependencyTargetPaths">
+        <ItemGroup>
+            <TargetPathWithTargetPlatformMoniker Include="..\MasterTable.Shared/$(OutputPath)\*.dll" IncludeRuntimeDependency="false"  />
+        </ItemGroup>
+    </Target>
+
+
+
+
+
+    <!--제너레이터 패키지-->
+    <ItemGroup>  
+        <PackageReference Include="Microsoft.CodeAnalysis.Analyzers" Version="3.11.0-beta1.24318.1">
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+            <PrivateAssets>all</PrivateAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.3.1" PrivateAssets="all" />
+    </ItemGroup>
+    
+    
+    <ItemGroup>
+      <Folder Include="Providers\" />
+    </ItemGroup>
+ 
+</Project> 
+

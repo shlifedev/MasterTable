@@ -1,0 +1,58 @@
+{
+    "managedList": [
+        {
+            "packageName": "UniTask",
+            "fileNames": [
+                "UniTask"
+            ]
+        },
+        {
+            "packageName": "MemoryPack.Core",
+            "fileNames": [
+                "MemoryPack.Core"
+            ]
+        },
+        {
+            "packageName": "System.Collections.Immutable",
+            "fileNames": [
+                "System.Collections.Immutable"
+            ]
+        },
+        {
+            "packageName": "System.Runtime.CompilerServices.Unsafe",
+            "fileNames": [
+                "System.Runtime.CompilerServices.Unsafe"
+            ]
+        },
+        {
+            "packageName": "System.Text.Json",
+            "fileNames": [
+                "System.Text.Json"
+            ]
+        },
+        {
+            "packageName": "Microsoft.Bcl.AsyncInterfaces",
+            "fileNames": [
+                "Microsoft.Bcl.AsyncInterfaces"
+            ]
+        },
+        {
+            "packageName": "System.Text.Encodings.Web",
+            "fileNames": [
+                "System.Text.Encodings.Web"
+            ]
+        },
+        {
+            "packageName": "ExcelDataReader",
+            "fileNames": [
+                "ExcelDataReader"
+            ]
+        },
+        {
+            "packageName": "ExcelDataReader.DataSet",
+            "fileNames": [
+                "ExcelDataReader.DataSet"
+            ]
+        }
+    ]
+}

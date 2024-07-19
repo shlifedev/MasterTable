@@ -1,0 +1,18 @@
+{
+    "name": "org.nuget.exceldatareader",
+    "version": "3.7.0",
+    "displayName": "ExcelDataReader",
+    "description": "Lightweight and fast library written in C# for reading Microsoft Excel files (XLS, XLSX).",
+    "unity": "2018.3",
+    "keywords": [
+        "excel",
+        "xls",
+        "xlsx",
+        "dataset"
+    ],
+    "author": {
+        "name": "ExcelDataReader developers",
+        "email": "",
+        "url": "https://github.com/ExcelDataReader/ExcelDataReader"
+    }
+}

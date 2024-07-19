@@ -1,0 +1,16 @@
+{
+    "name": "org.nuget.unitask",
+    "version": "2.5.5",
+    "displayName": "UniTask",
+    "description": "Provides an efficient async/await integration to Unity and .NET Core.",
+    "unity": "2018.3",
+    "keywords": [
+        "task",
+        "async"
+    ],
+    "author": {
+        "name": "Cysharp",
+        "email": "",
+        "url": "https://github.com/Cysharp/UniTask"
+    }
+}

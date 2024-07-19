@@ -1,0 +1,15 @@
+{
+    "name": "org.nuget.memorypack.core",
+    "version": "1.21.1",
+    "displayName": "MemoryPack.Core",
+    "description": "Core libraries(attribute, logics) of MemoryPack.",
+    "unity": "2018.3",
+    "keywords": [
+        "serializer"
+    ],
+    "author": {
+        "name": "Cysharp",
+        "email": "",
+        "url": "https://github.com/Cysharp/MemoryPack"
+    }
+}

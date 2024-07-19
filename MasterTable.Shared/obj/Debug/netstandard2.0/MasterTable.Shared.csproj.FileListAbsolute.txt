@@ -1,0 +1,11 @@
+/Users/shlifedev/MasterTable/MasterTable.Shared/bin/Debug/netstandard2.0/MasterTable.Shared.deps.json
+/Users/shlifedev/MasterTable/MasterTable.Shared/bin/Debug/netstandard2.0/MasterTable.Shared.dll
+/Users/shlifedev/MasterTable/MasterTable.Shared/bin/Debug/netstandard2.0/MasterTable.Shared.pdb
+/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Debug/netstandard2.0/MasterTable.Shared.csproj.AssemblyReference.cache
+/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Debug/netstandard2.0/MasterTable.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Debug/netstandard2.0/MasterTable.Shared.AssemblyInfoInputs.cache
+/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Debug/netstandard2.0/MasterTable.Shared.AssemblyInfo.cs
+/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Debug/netstandard2.0/MasterTable.Shared.csproj.CoreCompileInputs.cache
+/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Debug/netstandard2.0/MasterTable.Shared.sourcelink.json
+/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Debug/netstandard2.0/MasterTable.Shared.dll
+/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Debug/netstandard2.0/MasterTable.Shared.pdb
