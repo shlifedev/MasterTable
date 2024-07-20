@@ -1,5 +1,5 @@
 is_global = true
-build_property.RootNamespace = LD.MasterTable.Shared
-build_property.ProjectDir = /Users/shlifedev/MasterTable/MasterTable.Shared/
+build_property.RootNamespace = MasterTable.Shared
+build_property.ProjectDir = /Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

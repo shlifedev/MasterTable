@@ -54,6 +54,9 @@
     
     
     <ItemGroup>
+      <Folder Include="bin\" />
+      <Folder Include="bin\Release\" />
+      <Folder Include="obj\" />
       <Folder Include="Providers\" />
     </ItemGroup>
  

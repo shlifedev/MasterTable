@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MasterTable.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6688bc1e8782ab55bf87fd309215a13a0b7c748b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2edf76e208c08ad7f778076f51dfbc1d8e6cc0c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MasterTable.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MasterTable.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

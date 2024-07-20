@@ -1,11 +1,10 @@
-/Users/shlifedev/MasterTable/MasterTable.Shared/bin/Release/netstandard2.0/MasterTable.Shared.deps.json
-/Users/shlifedev/MasterTable/MasterTable.Shared/bin/Release/netstandard2.0/MasterTable.Shared.dll
-/Users/shlifedev/MasterTable/MasterTable.Shared/bin/Release/netstandard2.0/MasterTable.Shared.pdb
-/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.csproj.AssemblyReference.cache
-/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.GeneratedMSBuildEditorConfig.editorconfig
-/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.AssemblyInfoInputs.cache
-/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.AssemblyInfo.cs
-/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.csproj.CoreCompileInputs.cache
-/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.sourcelink.json
-/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.dll
-/Users/shlifedev/MasterTable/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.pdb
+/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/bin/Release/netstandard2.0/MasterTable.Shared.dll
+/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/bin/Release/netstandard2.0/MasterTable.Shared.pdb
+/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.csproj.AssemblyReference.cache
+/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.AssemblyInfoInputs.cache
+/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.AssemblyInfo.cs
+/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.csproj.CoreCompileInputs.cache
+/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.sourcelink.json
+/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.dll
+/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/obj/Release/netstandard2.0/MasterTable.Shared.pdb

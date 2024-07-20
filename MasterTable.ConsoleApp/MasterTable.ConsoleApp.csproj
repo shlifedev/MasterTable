@@ -9,9 +9,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <AdditionalFiles Include="/Users/shlifedev/MasterTable/MasterTable.Core/Excels/Generated/StructData/*.struct"></AdditionalFiles>
+        <AdditionalFiles Include="/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Core/Excels/Generated/StructData/Unit.struct"/> 
         <ProjectReference Include="..\MasterTable.Core\MasterTable.Core.csproj" />
         <ProjectReference Include="..\MasterTable.Generator\MasterTable.Generator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="obj\" />
     </ItemGroup>
 
 </Project>

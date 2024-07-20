@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFRzMfReVt4U9VgQyfazq7SpRDrZ6Ao6111TSLwUUj9q/G2nAt1D9YnO/eifXAXhCMJxKfAlkcWwcyPbk7B0nQ==",
+  "dgSpecHash": "TJVdqyBo0Prb4q7iWnE+JpOW3Yjrb42txRULtEBJL1psyoUemK7n0uFDsQ3JMMJtxNw2O7fO2zcA+gSi8V8wXg==",
   "success": true,
-  "projectFilePath": "/Users/shlifedev/MasterTable/MasterTable.Shared/MasterTable.Shared.csproj",
+  "projectFilePath": "/Users/shlifedev/Downloads/MasterTable2323 오전 12.01.46/MasterTable.Shared/MasterTable.Shared.csproj",
   "expectedPackageFiles": [
     "/Users/shlifedev/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/shlifedev/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
