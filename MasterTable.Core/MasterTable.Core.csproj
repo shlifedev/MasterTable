@@ -3,7 +3,10 @@
     <PropertyGroup>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>MasterTable</RootNamespace>
+        <RootNamespace>MasterTable</RootNamespace> 
+        <Nullable>enable</Nullable>
+        <IsPackable>false</IsPackable>
+        
         <LangVersion>12</LangVersion>
         <DebugType>none</DebugType>
         <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks> <!-- This line disables .pdb file generation -->
