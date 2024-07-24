@@ -1,3 +1,9 @@
+개발 진척도
+TypeInitializer -> OK
+TableInitializer -> 구현 중
+TableStrucutureGenerator -> OK
+Langauge Server Diagnostics -> 구현 중
+
 # MasterTable
 This project is currently under development.
 
@@ -259,4 +265,4 @@ namespace GameDB
     }
 /*---------------------Schema End---------------------*/
 }
-```
+``` 
